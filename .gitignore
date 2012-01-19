@@ -1,0 +1,6 @@
+/.project
+/.buildpath
+/.settings
+
+Tests/autoload.php
+Tests/coverage/*
